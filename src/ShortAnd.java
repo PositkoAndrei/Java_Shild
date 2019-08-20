@@ -12,7 +12,7 @@ public class ShortAnd {
         if (d != 0 && (n % d) == 0)
             System.out.println(d + " является делителем " + n);
 
-        if (d != 0 & (n % d) == 0)
-            System.out.println(d + " является делителем " + n);
+        //if (d != 0 & (n % d) == 0)
+         //   System.out.println(d + " является делителем " + n);
     }
 }
