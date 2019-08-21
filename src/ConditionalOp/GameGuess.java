@@ -3,7 +3,8 @@ package ConditionalOp;
 public class GameGuess {
     public static void main(String[] args)
             throws java.io.IOException {
-        char ch, ignore, answer = 'S';
+        char ch, ignore,
+                answer = 'S';
 
         do {
             System.out.println("Задуманная буква из диапазона A-Z.");
