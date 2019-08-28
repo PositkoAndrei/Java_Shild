@@ -54,7 +54,7 @@ class Triangle_5 extends TwoDShape_5 {
         super();//вызвать конструктор по умолчанию
         style = "none";
     }
-    //Конструктор
+//    //Конструктор
     Triangle_5(String s, double w, double h){
         super(w, h);
         style = s;
