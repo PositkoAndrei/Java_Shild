@@ -2,7 +2,7 @@ package ConditionalOp;
 
 public class Break2 {
     public static void main(String[] args)
-    throws java.io.IOException {
+            throws java.io.IOException {
         char ch;
 
         for ( ; ;) {

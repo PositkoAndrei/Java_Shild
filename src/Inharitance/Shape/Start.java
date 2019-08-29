@@ -11,7 +11,7 @@ public class Start {
         shapes[3] = new Triangle(7.0);
         shapes[4] = new TwoDShape(10, 20, "Фигура");
 
-        for (int i = 0; i < shapes.length; i++){
+        for (int i = 0; i < shapes.length; i++) {
             System.out.println("Обьект - " + shapes[i].getName());
             System.out.println("Площадь - " + shapes[i].area());
             System.out.println();
